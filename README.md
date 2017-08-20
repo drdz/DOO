@@ -6,4 +6,4 @@ Diseño Orientado a Objetos
   </li>
 </ul>
 <hr>
-# <h6>doo</h6>
+# Diseño
