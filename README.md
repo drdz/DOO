@@ -7,5 +7,8 @@ Diseño Orientado a Objetos
    <li>
       <a href="https://github.com/drdz/DOO/tree/master/Tareas/Semana2/Sitio">Tarea 2 (sitio web)</a>
    </li>
+   <li>
+      Soon...
+   </li>
 </ul>
 <hr>
