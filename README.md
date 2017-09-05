@@ -1,5 +1,4 @@
 # Diseño Orientado a Objetos
-<body background-color:red;>
 <ul>
    <li>
     <a href="https://github.com/drdz/DOO/blob/master/Tareas/Semana1/Ensayo.pdf">Tarea 1 (ensayo)</a>
@@ -14,5 +13,3 @@
       Soon...
    </li>
 </ul>
-</body>
-<hr>
