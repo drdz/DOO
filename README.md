@@ -11,7 +11,7 @@ Diseño Orientado a Objetos
       <a href="https://github.com/drdz/DOO/blob/master/Tareas/Semana3/XSS.pdf">Tarea 3 (ensayo xss)</a>
    </li>
    <li>
-      <a href="#">Soon...</a>
+      Soon...
    </li>
 </ul>
 <hr>
