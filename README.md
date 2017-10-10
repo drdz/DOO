@@ -10,6 +10,9 @@
       <a href="https://github.com/drdz/DOO/blob/master/Tareas/Semana3/XSS.pdf">Tarea 3 (ensayo xss)</a>
    </li>
    <li>
-      Soon...
-   </li>
+    <a href="https://github.com/drdz/DOO/blob/master/Tareas/Semana4/4">Tarea 4 (not yet)</a>
+  </li>
+   <li>
+    <a href="https://github.com/drdz/DOO/blob/master/Tareas/Semana5/5.pdf">Tarea 4 (ensayo cookies, sesiones, etc.)</a>
+  </li>
 </ul>
