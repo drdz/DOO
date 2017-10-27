@@ -15,4 +15,7 @@
    <li>
     <a href="https://github.com/drdz/DOO/blob/master/Tareas/Semana5/5.pdf">Tarea 5 (ensayo cookies, sesiones, etc.)</a>
   </li>
+   <li>
+    <a href="https://github.com/drdz/DOO/blob/master/Tareas/Tarea6/DP.pdf">Tarea 6 (patrones de diseño)</a>
+  </li>
 </ul>
